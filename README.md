@@ -6,3 +6,5 @@
 2. DB는 MysSQL 사용
 
 3. http, url, querystring 모듈 사용
+
+![create](https://github.com/Literacy-Masters/community_board/assets/50646019/7df2c75b-1e75-4f62-92a3-f0863823e4c9)
