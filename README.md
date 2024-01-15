@@ -14,7 +14,8 @@
 ![read](https://github.com/Literacy-Masters/community_board/assets/50646019/dd5adcf8-f613-48cc-8663-c7c106ffa6a6)
 
 ## Update
-![update](https://github.com/Literacy-Masters/community_board/assets/50646019/6a366f51-d71c-4cf7-8be6-e47af3109371)
+![update](https://github.com/Literacy-Masters/community_board/assets/50646019/6079af2d-d21c-426b-bc10-f4aa00864896)
+
 
 ## Delete
 ![delete](https://github.com/Literacy-Masters/community_board/assets/50646019/67b0f48f-b3d7-4ca9-b483-d32ff578e273)
