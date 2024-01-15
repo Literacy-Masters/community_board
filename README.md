@@ -1,6 +1,8 @@
 # community_board
 간단한 게시판 만들기
 
-1. CURD 다 이용해야 해요~
+1. 서버는 Node.js
 
-2. 언어는 상관없어요 대신 주석 써주면 감사합니다~
+2. DB는 MysSQL 사용
+
+3. http, url, querystring 모듈 사용
