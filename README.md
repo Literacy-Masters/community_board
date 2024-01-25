@@ -1,6 +1,8 @@
 # community_board
 간단한 게시판 만들기
 
+서버 - Node.js / DB - MySQL 사용
+
 ## CREATE
 ![create](https://github.com/Literacy-Masters/community_board/assets/51390109/e3c255f4-80e7-449b-b82a-3804e261f74e)
 
